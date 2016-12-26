@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{89ACB89D-3154-44C2-BB21-EECB57211A05}|Default">
+  <MonoDevelop.Ide.ItemProperties.InlineCustomization.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.053E84DB-0922-4156-AA9D-30EABEEDC9FD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="InlineCustomization/InlineCustomizationPage.xaml.cs" Line="13" Column="46" />
+      <File FileName="iOS/AppDelegate.cs" Line="18" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InlineCustomization.Droid PreferredExecutionTarget="Android.ZX1B34S75M" />
+</Properties>
